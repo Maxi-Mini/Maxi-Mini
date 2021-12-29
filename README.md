@@ -5,4 +5,5 @@
 ##### Мой стек
 HTML, CSS, JavaScript, React, Git, Webpack, Figma.
 
-telegram: @maxitar
+telegram: [@maxitar](@maxitar)
+mail: [tarahovmaksim@yandex.ru](tarahovmaksim@yandex.ru)
