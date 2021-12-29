@@ -5,4 +5,4 @@
 ##### Мой стек
 HTML, CSS, JavaScript, React, Git, Webpack, Figma.
 
-tg: @maxitar
+telegram: @maxitar
